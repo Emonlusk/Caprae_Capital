@@ -33,7 +33,7 @@ An AI-powered B2B lead generation and research tool that helps identify, analyze
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/caprae-leads.git
+git clone https://github.com/Emonlusk/caprae-leads.git
 cd caprae-leads
 ```
 
